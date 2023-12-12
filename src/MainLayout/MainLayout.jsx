@@ -2,6 +2,7 @@ import { Outlet } from "react-router-dom";
 
 import Footer from "../Pages/Footer/Footer";
 import NavBar from "../Components/Navbar/NavBar";
+import GotoTop from "../Components/GotoTop/GotoTop";
 
 function MainLayout() {
   return (
@@ -9,6 +10,7 @@ function MainLayout() {
       <NavBar></NavBar>
       <Outlet></Outlet>
       <Footer></Footer>
+      <GotoTop />
     </div>
   );
 }

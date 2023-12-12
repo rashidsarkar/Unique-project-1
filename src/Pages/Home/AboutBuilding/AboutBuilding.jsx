@@ -6,11 +6,11 @@ import { LazyLoadImage } from "react-lazy-load-image-component";
 function AboutBuilding() {
   return (
     <div className="max-w-7xl">
-      <div className="relative z-20 flex items-center justify-center overflow-hidden bg-white max-w-7xl n">
+      <div className="relative flex items-center justify-center overflow-hidden max-w-7xl n">
         <div className="relative h-full px-4 pb-20 mx-auto md:pb-10 sm:max-w-xl md:max-w-full md:px-24 lg:max-w-screen-xl lg:px-8">
           <div className="flex flex-col items-center justify-between py-16 lg:flex-row">
             <div className="relative">
-              <div className="relative z-40 lg:max-w-xl lg:pr-5 lg:h-[500px] lg:w-[480px] ">
+              <div className="relative  lg:max-w-xl lg:pr-5 lg:h-[500px] lg:w-[480px] ">
                 <h2 className="max-w-lg mb-6 text-5xl lg:h-[200px] font-light leading-snug tracking-tight text-g1 sm:text-7xl sm:leading-snug">
                   <TypeAnimation
                     sequence={[
