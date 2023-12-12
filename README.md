@@ -1,21 +1,28 @@
 # Project Links
 
-- **Project Live link:** [Visit the live website](https://startling-sfogliatella-088d59.netlify.app)
-- **GitHub client link:** [GitHub repository for the client](https://github.com/rashidsarkar/Unique-project-1)
-- **GitHub server link:** [GitHub repository for the server](https://github.com/rashidsarkar/un-server-1)
+- **Project Live Link:** [Visit the live website](https://startling-sfogliatella-088d59.netlify.app)
+- **GitHub Client Link:** [GitHub repository for the client](https://github.com/rashidsarkar/Unique-project-1)
+- **GitHub Server Link:** [GitHub repository for the server](https://github.com/rashidsarkar/un-server-1)
 
 **Admin Credentials:** Email: mglenn70@anio.site, Password: 123456  
 **Member Credentials:** Email: aalmazey@bendnsend.com, Password: 123456
 
 # Unique Features
 
-a. **Member Dashboard Chat Bot:** A chat bot in the member dashboard prompts users about their stay for the next month and reminds them to prepare for the upcoming rent.
+a. **Member Dashboard Chat Bot:**
+   - A chat bot in the member dashboard prompts users about their stay for the next month and reminds them to prepare for the upcoming rent.
 
-b. **Go-to-Top Button:** A convenient "go to top" button appears when users scroll down, providing an easy way to navigate back to the top of the page.
+b. **Go-to-Top Button:**
+   - A convenient "go to top" button appears when users scroll down, providing an easy way to navigate back to the top of the page.
 
-c. **Dynamic Navbar:** The navbar is not fixed on top. When users scroll down and need the navbar, they can simply scroll up slightly, and the navbar will smoothly appear, enhancing the user experience in browsing.
-d. **Online Payment Integration:** The platform offers a seamless online payment system, allowing users to conveniently settle bills through secure and efficient methods, ensuring a streamlined and secure financial transaction process.
-e. **Payment History:** The platform's dashboard includes a concise payment history section, enabling users to easily track and review past transactions for transparency and financial awareness. Detailed records of payment dates, amounts, and transaction statuses contribute to a user-friendly experience, providing a clear overview of financial interactions..
+c. **Dynamic Navbar:**
+   - The navbar is not fixed on top. When users scroll down and need the navbar, they can simply scroll up slightly, and the navbar will smoothly appear, enhancing the user experience in browsing.
+
+d. **Online Payment Integration:**
+   - The platform offers a seamless online payment system, allowing users to conveniently settle bills through secure and efficient methods, ensuring a streamlined and secure financial transaction process.
+
+e. **Payment History:**
+   - The platform's dashboard includes a concise payment history section, enabling users to easily track and review past transactions for transparency and financial awareness. Detailed records of payment dates, amounts, and transaction statuses contribute to a user-friendly experience, providing a clear overview of financial interactions.
 
 # Unique Technologies
 
