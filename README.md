@@ -14,6 +14,8 @@ a. **Member Dashboard Chat Bot:** A chat bot in the member dashboard prompts use
 b. **Go-to-Top Button:** A convenient "go to top" button appears when users scroll down, providing an easy way to navigate back to the top of the page.
 
 c. **Dynamic Navbar:** The navbar is not fixed on top. When users scroll down and need the navbar, they can simply scroll up slightly, and the navbar will smoothly appear, enhancing the user experience in browsing.
+d. **Online Payment Integration:** The platform offers a seamless online payment system, allowing users to conveniently settle bills through secure and efficient methods, ensuring a streamlined and secure financial transaction process.
+e. **Payment History:** The platform's dashboard includes a concise payment history section, enabling users to easily track and review past transactions for transparency and financial awareness. Detailed records of payment dates, amounts, and transaction statuses contribute to a user-friendly experience, providing a clear overview of financial interactions..
 
 # Unique Technologies
 
